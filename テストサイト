@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="UTF-8">
+
+    <title>テストサイト</title>
+
+    <script>alert("WELCOME!!");</script>
+
+    <style>
+
+    .div_1
+    {
+    border: 1px solid red;
+    border-radius: 3px;
+    background: yellow;
+    }
+
+    .p_red
+    {
+    color: red;
+    }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <hr>
+
+    <h1>テストサイト</h1>
+
+    <ul>
+
+      <li>メニュー1</li>
+
+      <li>メニュー2</li>
+
+    </ul>
+
+    <h2>見出し1</h2>
+
+    <h3>見出し1-1</h3>
+
+    <h4>見出し1-1-1</h4>
+
+    <div class="div_1">
+
+      <p class="p_red">赤い文字</p>
+
+    </div>
+
+    <br>
+
+    <img src="https://1.bp.blogspot.com/-QYnuskl6d9M/XMPkrS-t-kI/AAAAAAAAAGk/lEj6Ft4nNYoKyrHonTPxU-j8i7K5nwTSwCLcBGAs/s1600/90D4E5A7-3498-44EB-A268-6CDE1B426141.jpeg" width="50%" alt="南海7100系" title="南海7100系">
+ 
+    <br>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_hWHrMf-6tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>iframeを表示できません。</iframe>
+
+    <br>
+
+    <table border="1">
+
+      <tr>
+
+        <th>サイト名</th>
+
+        <th>URL</th>
+
+      </tr>
+
+      <tr>
+
+        <td>Google</td>
+
+        <td>https://www.google.com</td>
+
+      </tr>
+
+    </table>
+
+    <br>
+
+    <a href="https://www.google.com">Google</a>
+
+    <br>
+
+    <a href="mailto:aiueosandot@eay.jp">メール送信</a>
+
+  </body>
+
+</html>
